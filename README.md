@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:surya2003j@gmail.com"><img src="https://img.shields.io/badge/Email-surya2003j@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/surya-j"><img src="https://img.shields.io/badge/LinkedIn-Surya-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surya-j-developer"><img src="https://img.shields.io/badge/LinkedIn-Surya-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://suryadeveloper.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/Surya-J-Dev"><img src="https://img.shields.io/badge/GitHub-SuryaJDev-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/dev2designs"><img src="https://img.shields.io/badge/Instagram-@Dev2Designs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
